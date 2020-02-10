@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BanksSampah</string>
+
+    <string name="info">Bank Sampah info
+    Harga Sampah /kg
+    1. Sampah Kertas Rp. 5.000
+    2. Sampah Kaleng Alumuunium Rp. 3.000
+    3. Sampah Stainless Rp. 5.000
+    4. Panci/Wajan Rp. 10.000
+    5. sampah Botol Kecil dan Besar Rp. 5.000
+    6. Sampah Organik Rp. 7.000
+    7. Sampah Besi Rp. 5.000</string>
+
+    <string name="app_tentang">Bank Sampah</string>
+    <string name="tentang">Informasi Mengenai Bank Sampah
+
+    Aplikasi ini adalah Aplikasi Bank Sampah yang dikelola oleh Dinas Lingkungan Hidup kota Bandar Lampung yang bekerja sama dengan pegadaian bertujuan untuk memberikan informasi mengenai BAnk Sampah yang ada di Kota BAndar Lampung (Kec. Kemilinng).
+    jenis sampah yang ditabungkan berupa sampah organik, botol, kaca, dan tidak diperbolehkan sampah makanan agar mempermudah petugas kebersihan. Tujuan dari aplikasi ini memudahkan masyarakat dalam pengelolaan sampah, dan meningkatkan masyarakat.
+    </string>
+</resources>
